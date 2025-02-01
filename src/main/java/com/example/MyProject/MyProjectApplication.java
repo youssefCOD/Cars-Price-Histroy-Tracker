@@ -1,13 +1,13 @@
-package com.example.CarsPriceHistory;
+package com.example.MyProject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CarsPriceHistoryApplication {
+public class MyProjectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CarsPriceHistoryApplication.class, args);
+		SpringApplication.run(MyProjectApplication.class, args);
 	}
 
 }
